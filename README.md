@@ -46,6 +46,3 @@ To develop an iOS app using SwiftUI, you need a macOS environment with Xcode ins
 
 ## Conclusion
 This document outlines my approach to the SwiftUI task. Although I am unable to implement the solution at this time, I hope this demonstrates my understanding of the requirements and my ability to plan and structure a solution. I am eager to learn and develop my skills in iOS development, and I appreciate your consideration.
-
-Best regards,  
-Varshitha Y S
